@@ -43,5 +43,7 @@ El protocolo nos permite realizar una petición de datos y recursos, pongamos un
 | :-------------------: | :-------------------: |
 | Sitio web seguro | Migración Complicada |
 | Los datos están a salvo | Carga lenta |
+| Aumenta la protección ante ataques | Aumenta el tráfico |
+| Mejora el SEO | x |
 
 ![ImagenHTTPSparatabla](https://github.com/loltop776/SMX2-M8UF1A1-HistoriaWeb-1989-1994-TheHTTPProtocol-JesusFortea/blob/main/FOTOS/HTTPS%20para%20tabla.jpg "ImagenHTTPparatabla")
