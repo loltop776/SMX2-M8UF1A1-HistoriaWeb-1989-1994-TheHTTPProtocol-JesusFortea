@@ -14,7 +14,7 @@
 ```
 ## 1. Sobre HTTP
 
-Este protocolo se hizo para enviar datos entre cliente y servidor, fue introducido por **Tim Barners-Lee** en el **28 de noviembre de 1991**. También existe el HTTPS, una conexión más segura a los sitios web.
+Este protocolo se hizo para enviar datos entre cliente y servidor, fue introducido por **Tim Barners-Lee** en el **28 de noviembre de 1991**. También existe el **HTTPS**, una conexión más segura a los sitios web.
 
 ![ImagenHTTP](https://github.com/loltop776/SMX2-M8UF1A1-HistoriaWeb-1989-1994-TheHTTPProtocol-JesusFortea/blob/main/FOTOS/Sin%20t%C3%ADtulo.jpg "ImagenHTTP")
 
