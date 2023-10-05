@@ -1,6 +1,14 @@
 # EL PROTOCOLO HTTP
 
-## Sobre HTTP
+## Índice
+
+### 1. Sobre HTTP
+
+### 2. Como funciona
+
+## 1. Sobre HTTP
+
+## 2. Como funciona
 
 El protocolo nos permite realizar una petición de datos y recursos, pongamos un ejemplo simple: Al introducir un URL en la barra de búsqueda de un navegador, este envía un comando HTTP al servidor web, de esta manera busca y transmite la página web anteriormente indicada con el URL.
 
