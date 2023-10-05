@@ -1,16 +1,16 @@
 # EL PROTOCOLO HTTP
-```
+
 ## Índice
+```
+1. Sobre HTTP
 
-#### 1. Sobre HTTP
+2. Como funciona
 
-#### 2. Como funciona
+3. Ventajas y desventajas
 
-#### 3. Ventajas y desventajas
+    3.1 Protocolo HTTP
 
-#####   3.1 Protocolo HTTP
-
-#####   3.2 Protocolo HTTPS
+    3.2 Protocolo HTTPS
 ```
 ## 1. Sobre HTTP
 
