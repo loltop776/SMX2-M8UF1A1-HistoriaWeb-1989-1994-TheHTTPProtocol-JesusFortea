@@ -1,5 +1,7 @@
 # EL PROTOCOLO HTTP
 
+![Portada](https://github.com/loltop776/SMX2-M8UF1A1-HistoriaWeb-1989-1994-TheHTTPProtocol-JesusFortea/blob/main/FOTOS/Portada.jpg "Portada")
+
 ## Índice
 ```
 1. Sobre HTTP
